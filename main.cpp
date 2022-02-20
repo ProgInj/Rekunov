@@ -4,7 +4,7 @@ int main()
 {
 setlocale(LC_ALL, "Russia");
 int x, y;
-cout « "введте x: ";
+cout « "введите x: ";
 cin » x;
 cout « "введите y: ";
 cin » y;
